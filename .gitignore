@@ -1,6 +1,10 @@
 wikipedia_json_output/
-jawiki-latest-pages-articles.xml
-wnjpn-ok.tab
-jawiki.all_vectors.200d.txt
 csv/
 dic/
+__pycache__/
+jawiki-latest-pages-articles.xml
+wnjpn-ok.tab
+wnjpn-all.tab
+wnjpn.db
+jawiki.all_vectors.200d.txt
+constants.py
